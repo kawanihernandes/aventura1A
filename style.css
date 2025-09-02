@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(23, 109, 23);
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0;
+}
